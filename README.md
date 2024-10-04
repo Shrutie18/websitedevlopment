@@ -19,6 +19,8 @@ static web hosting with jenkins (on ubuntu instance)
 ![image](https://github.com/user-attachments/assets/e73c56c7-5c0d-4081-9d2d-b93c53e0fee1)
 ![image](https://github.com/user-attachments/assets/0f1e7696-5a2d-4e8b-b7eb-0e900b560f19)
 
+![image](https://github.com/user-attachments/assets/9d831528-3245-4d44-af33-0c2cb4c912e7)
+
 
 
 
